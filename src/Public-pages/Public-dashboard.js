@@ -42,7 +42,7 @@ function Public_dasboard() {
           <div className="common-text-font-fam adam-fighfinder-contnet container absolute md:top-1/3 md:left-64 w-3/6">
             <div className="fighter-name">
               <span className="font-normal  text-white md:text-3xl sm:text-xl">
-                Usman
+                Usman testing
               </span>
               <span className="mx-2 font-normal text-white md:text-3xl sm:text-xl">
                 VS.
